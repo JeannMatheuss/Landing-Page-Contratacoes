@@ -117,4 +117,29 @@ body {
 
 .metricas__container {
     display: flex;
+    justify-content: space-between;
+    gap: 64px;
+    padding: 0 64px 96px 64px;
+}
+
+.metricas {
+    display: flex;
+    flex-direction: column;
+    padding: 0 32px;
+    gap: 12px;
+}
+
+.metricas h1 {
+    color: var(--cor-primaria);
+    font-size: 60px;
+}
+
+.metricas h5 {
+    color: var(--cor-quaternaria);
+    font-size: 18px;
+}
+
+.metricas p {
+    color: var(--cor-terciaria);
+    font-size: 16px;
 }
