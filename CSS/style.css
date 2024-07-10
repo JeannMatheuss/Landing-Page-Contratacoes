@@ -174,3 +174,8 @@ body {
     color: var(--cor-terciaria);
     font-size: 20px;
 }
+
+.vagas__container img {
+    padding-top: 64px;
+    width: 100%;
+}
