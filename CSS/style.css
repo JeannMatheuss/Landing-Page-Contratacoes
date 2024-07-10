@@ -114,3 +114,7 @@ body {
     padding-top: 12px;
     width: 792px;
 }
+
+.metricas__container {
+    display: flex;
+}
