@@ -179,3 +179,25 @@ body {
     padding-top: 64px;
     width: 100%;
 }
+
+.vagas {
+    display: flex;
+    flex-direction: column;
+}
+
+.vagas__desing {
+    display: flex;
+}
+
+.nicho__vaga {
+    color: var(--cor-quaternaria);
+    gap: 32px;
+}
+
+.titulo__vaga {
+    color: var(--cor-quaternaria);
+}
+
+.informacoes {
+    color: var(--cor-terciaria);
+}
