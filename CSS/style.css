@@ -220,3 +220,37 @@ body {
 #ios {
     padding-top: 12px;
 }
+
+.depoimentos__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 64px 32px;
+}
+
+.depoimentos__container h3 {
+    color: var(--cor-primaria);
+    font-size: 14px;
+    padding-bottom: 16px;
+}
+
+.depoimentos__container h2 {
+    color: var(--cor-quaternaria);
+    font-size: 32px;
+    padding-bottom: 32px;
+}
+
+.depoimentos__container img {
+    padding-bottom: 12px;
+}
+
+.depoimentos__container h5 {
+    color: var(--cor-quaternaria);
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+
+.depoimentos__container p {
+    color: var(--cor-terciaria);
+    font-size: 14px;
+}
