@@ -226,6 +226,7 @@ body {
     flex-direction: column;
     align-items: center;
     margin: 64px 32px;
+    padding: 32px;
 }
 
 .depoimentos__container h3 {
